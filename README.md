@@ -1,8 +1,8 @@
 - 👋 Hi geek!
 - 👀 I’m interested in Electric vehicles, Uncrewed and Autonomous Systems and also open minded to any other areas that interest me 
-- 🌱 I’m currently working on Hybrid/Electric sports and hypercars professionally and on github project as a hobby 
-- 📎 I’m looking for interesting and fun contributors and collaborators from all around the globe 
-- 💞️ I love to travel around the globe and work with interesting and fun people. So, let's work together and do a meaningful impact in the real world and most importantly have fun while doing it😉. 
+- 🌱 I’m currently working on Hybrid/Electric sports and hypercars professionally and on github project as a hobby  
+- 💞️ I love to work with interesting and fun people from all around the globe
+- 📎 I enjoy making a positive difference in the world, and I believe that the journey towards creating impactful change should be enjoyable and engaging.😉. 
 <!---
 akilan-g/akilan-g is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
